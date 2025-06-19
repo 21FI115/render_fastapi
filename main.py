@@ -14,7 +14,7 @@ def index():
         </head>
         <body>
             <h1>こんにちは！これはFastAPIで作ったHTMLページです。</h1>
-            <p>FastAPIでHTMLを返すことができまる。</p>
+            <p>FastAPIでHTMLを返すことができる。</p>
             <a href="/omikuji">おみくじを引く</a>
         </body>
     </html>
